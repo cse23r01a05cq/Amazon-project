@@ -72,8 +72,6 @@ This project helped me strengthen my understanding of:
 
 **Sathwika Anumula**
 
-GitHub: https://github.com/YOUR_GITHUB_USERNAME
-
 ---
 
 ## License
