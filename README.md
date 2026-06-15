@@ -2,6 +2,10 @@
 
 A front-end Amazon-inspired e-commerce website built using **HTML, CSS, and JavaScript**. This project simulates a basic online shopping experience, allowing users to browse products, add items to the cart, and view a checkout page.
 
+## Live demo
+
+https://cse23r01a05cq.github.io/Amazon-project/
+
 ## Features
 
 - Product listing page
